@@ -111,6 +111,8 @@ h1 {
     object-fit: cover;
     width: 250px;
     height: 250px;
+    border: 5px solid #0077B6;
+    border-radius: 25px;
 }
 
 .content-3 {
@@ -176,4 +178,11 @@ h1 {
 .box-right button:hover {
     background-color: #CAF0F8;
     color: #0077B6;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
 }
