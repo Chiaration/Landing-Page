@@ -4,4 +4,8 @@ Creating a landing page using HTML, CSS and Flexbox.
 
 Skills: HTML, CSS, Flexbox, Git
 
-Homepage Main Photo: Photo by Eddie Galaxy from Pexels
+Homepage Main Photo: 
+Dog Family - Photo by Eddie Galaxy from Pexels
+French Bulldog - Photo by Martin Dufosset from Pexels
+Beagle - Photo by Marliese Streefland on Unsplash
+Golden Retriever - Photo by Helena Lopes from Pexels
