@@ -2,11 +2,18 @@
 body {
     margin: 0;
     font-family: Roboto;
+    background-color: #03045E;
     color: #CAF0F8;
 }
 
 h1 {
     margin: 0;
+}
+
+.outer-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .header {
@@ -16,6 +23,7 @@ h1 {
     padding-left: 50px;
     padding-right: 50px;
     align-items: center;
+    width: 75%;
 }
 
 .header-left, .header-right {
@@ -103,4 +111,30 @@ h1 {
     object-fit: cover;
     width: 250px;
     height: 250px;
+}
+
+.content-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #00B4D8;
+    color: #03045E;
+    padding: 20px;
+}
+
+.inner-content-3 {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+#quote {
+    font-size: 45px;
+}
+
+#quote-author {
+    font-size: 35px;
+    margin-left: auto;
+    font-weight: bold;
 }
